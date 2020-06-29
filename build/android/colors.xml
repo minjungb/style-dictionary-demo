@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Fri, 26 Jun 2020 20:07:22 GMT
+-->
+<resources>
+  <color name="color_base_gray_lightest">#fff1f3f6</color>
+  <color name="color_base_gray_lighter">#ffdfe1e2</color>
+  <color name="color_base_gray_light">#ffa9aeb1</color>
+  <color name="color_base_gray_base">#ff71767a</color>
+  <color name="color_base_gray_dark">#ff565c65</color>
+  <color name="color_base_gray_darker">#ff2d2e2f</color>
+  <color name="color_base_gray_darkest">#ff1c1d1f</color>
+  <color name="color_base_red">#ffff0000</color>
+  <color name="color_base_green">#ff00ff00</color>
+  <color name="color_primary_blue_lighter">#ffc3ebfa</color>
+  <color name="color_primary_blue_light">#ff59b9de</color>
+  <color name="color_primary_blue_base">#ff0d7ea2</color>
+  <color name="color_primary_blue_dark">#ff07648d</color>
+  <color name="color_primary_blue_darker">#ff074b69</color>
+  <color name="color_secondary_mint_lighter">#ff7efbe1</color>
+  <color name="color_secondary_mint_light">#ff1dc2ae</color>
+  <color name="color_secondary_mint_base">#ff008480</color>
+  <color name="color_secondary_mint_dark">#ff0f6460</color>
+  <color name="color_secondary_mint_darker">#ff0b4b3f</color>
+  <color name="color_font_lightest">#fffcfcfc</color>
+  <color name="color_font_lighter">#fff0f0f0</color>
+  <color name="color_font_light">#ffc9c9c9</color>
+  <color name="color_font_base">#ffadadad</color>
+  <color name="color_font_dark">#ff757575</color>
+  <color name="color_font_darker">#ff454545</color>
+  <color name="color_font_darkest">#ff1b1b1b</color>
+  
+</resources>

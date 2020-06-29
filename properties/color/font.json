@@ -1,0 +1,13 @@
+{
+  "color": {
+    "font": {
+      "lightest": { "value": "#fcfcfc" },
+      "lighter": { "value": "#f0f0f0" },
+      "light": { "value": "#c9c9c9" },
+      "base": { "value": "#adadad" },
+      "dark": { "value": "#757575" },
+      "darker": { "value": "#454545" },
+      "darkest": { "value": "#1b1b1b" }
+    }
+  }
+}
