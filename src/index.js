@@ -1,3 +1,1 @@
-const StyleDictionary = require('style-dictionary').extend('config.json');
-
-StyleDictionary.buildAllPlatforms();
+import "./main.scss";
